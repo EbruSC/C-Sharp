@@ -1,1 +1,1 @@
-# C-
+Microsoft tarafından geliştirilen bir programlama dili olan C Sharp, modern algoritması ve orta seviye zorluğu ile yazılımcıların ilk tercih ettiği dillerden birisidir. Burada yeni başlayanlar için başlangıç düzeyinden ileri seviye C# kodlamaları bulunmaktadır.
