@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IpPmS+dCtg7K/aHkXZ9LT9BtELYUx3j2+kaYreSMq97/fLUFzUWlYRWKmXMg70Ah+6nlpCcG76x0qExsXHkF5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ebru\\Desktop\\C#_Eğitimi\\Ders2\\Ders2\\Ders2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ebru\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
